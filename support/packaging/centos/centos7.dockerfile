@@ -1,4 +1,4 @@
-FROM centos:7
+FROM centos:centos8.4.2105
 MAINTAINER Kapil Arya <kapil@apache.org>
 
 # Get curl.
